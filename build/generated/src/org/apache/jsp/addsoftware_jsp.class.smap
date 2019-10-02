@@ -1,0 +1,25 @@
+SMAP
+addsoftware_jsp.java
+JSP
+*S JSP
+*F
++ 0 addsoftware.jsp
+addsoftware.jsp
++ 1 footer.jsp
+content/footer.jsp
+*L
+1,12:51
+13,3:64
+15,3:67
+18:70,3
+19:73
+20:74,3
+21,19:77
+40,4:97
+43:101,3
+44,12:104
+56,5:117
+60,6:122
+1#1,58:128
+65#0,4:185
+*E

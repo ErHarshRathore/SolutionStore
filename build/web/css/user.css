@@ -1,0 +1,26 @@
+.catelog img{
+    width: 180px;
+    height: 180px;
+}
+.catelog{
+    border: 0px;
+    font-size:26px;
+    line-height: 50px;
+    text-align: center;
+}
+.catelog tr{
+    height: 300px;
+}
+.software_list tr{
+    height: 100px;
+}
+.catelog td{
+    padding: 0px;
+    margin: 0px;
+    width: 33%;
+}
+.catelog th{
+    letter-spacing: 4px;
+    font-size: 32px;
+    color:cyan;
+}
